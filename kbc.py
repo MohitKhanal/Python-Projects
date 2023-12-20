@@ -1,4 +1,4 @@
-# to make KBC game
+# to make KBC game using only match case statement
 cash=0
 print("Let's play the game")
 print("Who is the father of computer?")
